@@ -1,0 +1,14 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Build files
+target/
+build/
+
+# Logs and Env
+*.log
+.env
+
+# OS files
+.DS_Store
