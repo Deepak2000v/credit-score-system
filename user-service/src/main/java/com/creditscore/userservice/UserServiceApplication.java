@@ -1,4 +1,4 @@
-package com.creditscore.user_service;
+package com.creditscore.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
